@@ -8,7 +8,7 @@ import { Myaccount } from './features/auth/components/Myaccount'
 import { Mybuys } from './features/auth/components/Mybuys'
 import { Myfavorities } from './features/auth/components/Myfavorities'
 import { HashRouter,Routes, Route } from 'react-router-dom'
-import StatusBar from './features/layout/components/statusbar';
+import StatusBar from "./features/layout/components/StatusBar";
 
 
 function App() {
